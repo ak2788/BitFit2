@@ -2,7 +2,7 @@
 
 Submitted by: **Afsheen Khan**
 
-**BitFit2** is a health metrics app that allows users to track ... [TODO] 
+**BitFit2** is a health metrics app that allows users to keep a log and track daily calories consumed.
 
 Time spent: **4** hours spent in total
 
